@@ -3,7 +3,7 @@
 - 🔭 Cursos completos: Algoritmos e lógica de programação, Bases númericas, Hardware e Git/Github.
 - 🌱 Atualmente estudando: Java e MySQL.
 - ✨ Aspirando uma vaga na área de tecnologia na UFMS.
-- ✅ Objetivo de me tornar um desenvolvedor.
+- ✅ Objetivo: me tornar um desenvolvedor.
 
 ##
 
