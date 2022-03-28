@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcelo Lopes, estudante de programação e tecnologia! 👋
 
-- 🔭 Cursos completos: Algoritmos e lógica de programação, Bases númericas, Hardware e Git/Github.
-- 🌱 Atualmente estudando: Java e MySQL.
+- 🔭 Cursos completos: Algoritmos e lógica de programação, Bases númericas, Hardware, Git/Github e Java básico.
+- 🌱 Atualmente estudando: Java OO e MySQL.
 - ✨ Aspirando uma vaga na área de tecnologia na UFMS.
 - ✅ Objetivo: me tornar um desenvolvedor.
 
