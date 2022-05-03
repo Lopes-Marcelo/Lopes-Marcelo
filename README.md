@@ -2,7 +2,7 @@
 
 - 🔭 Cursos completos: Algoritmos e lógica de programação, Bases númericas, Hardware, Git/Github, Java básico e Java OO.
 - 🌱 Atualmente estudando: Spring Boot e MySQL.
-- ✨ Aspirando uma vaga na área de tecnologia na UFMS.
+- ✨ Aspirando uma vaga de desenvolvedor júnior e uma vaga acadêmica na área de tecnologia da UFMS.
 - ✅ Objetivo: me tornar um desenvolvedor.
 
 ##
