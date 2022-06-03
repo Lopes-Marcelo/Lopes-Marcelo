@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcelo Lopes, estudante de programação e tecnologia! 👋
 
 - 🔭 Cursos completos (alguns): Fundamentos de lógica de programação, Algoritmos, Bases numéricas, Linux fundamentos, Git/GitHub, Java básico, Java fundamentos, programação orientada a objeto em linguagem Java, Banco de dados MySQL, Gestão de infraestrutura de TI e DevOps & agile culture pelas plataformas Curso em Vídeo, FIAP e Fundação Bradesco Escola Virtual.
-- 🌱 Atualmente estudando: Framework Spring Boot, Javascript e ReactJS. 
+- 🌱 Atualmente estudando: Framework Spring Boot, Javascript e React. 
 - ✨ Aspirando uma vaga de desenvolvedor júnior e uma vaga acadêmica na área de tecnologia da UFMS.
 - ✅ Objetivo: me tornar um desenvolvedor.
 
@@ -22,7 +22,7 @@
   <img align="center" alt="Celo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Celo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Celo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Celo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Celo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Celo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Celo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Celo-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
