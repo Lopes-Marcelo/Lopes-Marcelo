@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcelo Lopes, estudante de programação e tecnologia! 👋
 
-- 🔭 Cursos completos (alguns): Fundamentos de lógica de programação, Algoritmos, Bases numéricas, Linux fundamentos, Git/GitHub, Java básico, Java fundamentos, programação orientada a objeto em linguagem Java, Banco de dados MySQL, Gestão de infraestrutura de TI e DevOps & agile culture pelas plataformas Curso em Vídeo, FIAP e Fundação Bradesco Escola Virtual.
+- 🔭 Cursos completos (alguns): Fundamentos de lógica de programação, Algoritmos, Bases numéricas, Linux fundamentos, Git/GitHub, Java básico, Java fundamentos, programação orientada a objeto em linguagem Java, Banco de dados MySQL e DevOps & agile culture pelas plataformas Curso em Vídeo, FIAP e Fundação Bradesco Escola Virtual.
 - 🌱 Atualmente estudando: Framework Spring Boot, Javascript e React. 
 - ✨ Aspirando uma vaga de desenvolvedor júnior e uma vaga acadêmica na área de tecnologia da UFMS.
 - ✅ Objetivo: me tornar um desenvolvedor.
