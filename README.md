@@ -2,7 +2,8 @@
 
 - 🔭 Alguns dos meu cursos completos e certificados são: fundamentos de lógica de programação, algoritmos, Linux fundamentos, Git/GitHub, Java básico, Java fundamentos, programação orientada a objeto em linguagem Java, Coleções, Implementações e Tratamento de Exceções Java, banco de dados MySQL, testes unitários com JUnit e DevOps & agile culture pelas plataformas Curso em Vídeo, FIAP, Fundação Bradesco Escola Virtual e Digital Innovation One inc.
 - 🌱 Estudando atualmente: Framework Spring Boot, Javascript e React. 
-- ✨ Aspirando uma oportunidade de desenvolvedor júnior e uma vaga acadêmica na área de tecnologia da UFMS.
+- ✨ Aspirando uma oportunidade de desenvolvedor júnior.
+- 🎓 Acadêmico de Tecnologia da Informação na UFMS.
 - ✅ Objetivo: me tornar um excelente desenvolvedor.
 
 ##
