@@ -4,7 +4,7 @@
 - 🌱 Estudando atualmente: framework Spring Boot, Mensageira RabbitMQ, HTTP, Microsserviços, Docker, consumo de API´s, arquitetura REST, Banco MongoDB, WordPress e Python e, além disso, sempre me atualizando sobre HTML, CSS, JavaScript e ReactJS. 
 - ✨ Aspirando sempre o aperfeiçoamento.
 - 🎓 Acadêmico de Tecnologia da Informação na UFMS.
-- ✅ Objetivo: me tornar um excelente desenvolvedor.
+- ✅ Objetivo: me tornar um excelente e completo desenvolvedor.
 
 ##
 
