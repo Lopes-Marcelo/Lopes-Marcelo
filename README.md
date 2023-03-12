@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Marcelo Lopes, desenvolvedor de sistemas na AVA Educação e estudante de programação e tecnologia! 👋
 
 - 🔭 Alguns dos meu cursos completos e certificados são: fundamentos de lógica de programação, algoritmos, Linux fundamentos, Git/GitHub, Java básico, Java fundamentos, programação orientada a objeto em linguagem Java, Coleções, Implementações e Tratamento de Exceções Java, banco de dados MySQL, testes unitários com JUnit e DevOps & agile culture pelas plataformas Curso em Vídeo, FIAP, Fundação Bradesco Escola Virtual e Digital Innovation One inc.
-- 🌱 Estudando atualmente:  framework Spring Boot, Mensageira RabbitMQ, HTTP, Microsserviços, Docker, consumo de API´s, arquitetura REST, Banco MongoDB e WordPress e, além disso, possuo conhecimento básico em HTML, CSS, JavaScript e ReactJS. 
+- 🌱 Estudando atualmente: framework Spring Boot, Mensageira RabbitMQ, HTTP, Microsserviços, Docker, consumo de API´s, arquitetura REST, Banco MongoDB, WordPress e Python e, além disso, sempre me atualizando sobre HTML, CSS, JavaScript e ReactJS. 
 - ✨ Aspirando sempre o aperfeiçoamento.
 - 🎓 Acadêmico de Tecnologia da Informação na UFMS.
 - ✅ Objetivo: me tornar um excelente desenvolvedor.
