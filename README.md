@@ -1,10 +1,13 @@
-### Olá! Eu sou o Marcelo Lopes, desenvolvedor de sistemas na AVA Educação e estudante de programação e tecnologia! 👋
+### Olá! Eu sou o Marcelo Lopes, Coordenador Sênior de TI e DPO na AVA Educação, desenvolvedor de sistemas e estudante de tecnologia! 👋
 
-- 🔭 Alguns dos meu cursos completos e certificados são: fundamentos de lógica de programação, algoritmos, Linux fundamentos, Git/GitHub, Java básico, Java fundamentos, programação orientada a objeto em linguagem Java, Coleções, Implementações e Tratamento de Exceções Java, banco de dados MySQL, testes unitários com JUnit e DevOps & agile culture pelas plataformas Curso em Vídeo, FIAP, Fundação Bradesco Escola Virtual e Digital Innovation One inc.
-- 🌱 Estudando atualmente: framework Spring Boot, Mensageira RabbitMQ, HTTP, Microsserviços, Docker, consumo de API´s, arquitetura REST, Banco MongoDB, WordPress e Python e, além disso, sempre me atualizando sobre HTML, CSS, JavaScript e ReactJS. 
-- ✨ Aspirando sempre o aperfeiçoamento.
-- 🎓 Acadêmico de Tecnologia da Informação na UFMS.
-- ✅ Objetivo: me tornar um excelente e completo desenvolvedor.
+💼 Lidero as operações de TI, integrações entre sistemas, automações de comunicação e marketing digital, sempre com foco em segurança, escalabilidade e performance.
+🛡️ Atuo como Data Protection Officer (DPO), assegurando a conformidade com a LGPD e a integridade dos dados e processos.
+🤖 Entusiasta de Inteligência Artificial e automação inteligente, desenvolvendo soluções que otimizam processos e geram valor.
+🔭 Certificados em lógica de programação, algoritmos, Git/GitHub, Java, MySQL, JUnit, DevOps & Agile Culture, além de RWVCPC™ (CertiProf) e Programa de Habilidades para Líderes (EHAF).
+🌱 Estudando atualmente: Spring Boot, Microsserviços, APIs REST, DevOps e WordPress, com projetos e práticas alocados no meu GitHub.
+🎓 Acadêmico de Tecnologia da Informação na UFMS.
+✨ Proativo, responsável e organizado, aspirando sempre o aperfeiçoamento contínuo.
+✅ Objetivo: liderar projetos de transformação digital, combinando desenvolvimento de sistemas com estratégia de negócios e governança de dados.
 
 ##
 
